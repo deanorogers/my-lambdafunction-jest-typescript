@@ -9,7 +9,7 @@ Run build to:
 - transpile typescript into the /lib folder
 - copy the package into the /lib folder
 - cd /lib
-- npm install --production to cfeate node_modules folder sans devDependencies
+- *npm install --production* to create a node_modules folder sans devDependencies
 - move app.js back a directory to be in the root of the distro package
 ```
 $ npm run build

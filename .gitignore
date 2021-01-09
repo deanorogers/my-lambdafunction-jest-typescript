@@ -1,10 +1,11 @@
 node_modules/
 *.tgz
-built/
+lib/
 
 yarn-error.log
 yarn.lock
 
 # .vscode
 
-
+.DS_Store
+my-basic-javascript.code-workspace
